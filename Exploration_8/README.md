@@ -41,4 +41,5 @@ Deep lab에 관한 자세한 설명은 밑에 링크를 통해 들어가면 된�
 [DeepLab](https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/), [DeepLab Demo](https://github.com/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
 
 ---
-[jupyter notebook](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_8/Exploration_8.ipynb)
+[jupyter notebook](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_8/Exploration_8.ipynb)   
+[model](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_8/models/deeplab_model.tar.gz)
