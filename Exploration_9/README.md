@@ -30,5 +30,5 @@
 
 -------
 
-[jupyter notebook Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_9/practice.ipynb)
+[jupyter notebook Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_9/practice.ipynb)     
 [Exploration 9 Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_9/exploration_9.ipynb)
