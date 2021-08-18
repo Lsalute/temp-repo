@@ -17,5 +17,5 @@
 
 -------
 
-[jupyter notebook Link]()     
-[Exploration 10 Link]()
+[jupyter notebook Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_10/practice.ipynb)     
+[Exploration 10 Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_10/Exploration_10.ipynb)
