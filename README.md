@@ -13,3 +13,4 @@ AIFFEL에서 학습한 Exploration의 코드를 정리해놓은 repository입니
 |영화리뷰 텍스트 감성분석하기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_7/project.ipynb)|
 |인물사진 모드 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_8/Exploration_8.ipynb)|
 |영화 추천 시스템 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_9/exploration_9.ipynb)|
+|뉴스 요약봇 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_10/Exploration_10.ipynb)|
