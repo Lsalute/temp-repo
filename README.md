@@ -16,3 +16,4 @@ AIFFEL에서 학습한 Exploration의 코드를 정리해놓은 repository입니
 |뉴스 요약봇 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_10/Exploration_10.ipynb)|
 |폐렴아.. 멈춰줄래?...|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_11/Exploration_11.ipynb)|
 |인공지능으로 새로운 패션 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_13/Exploration_13.ipynb)|
+|어제 오른 주식은.... 내꺼가 아니다...|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_14/Exploration_14.ipynb)|
