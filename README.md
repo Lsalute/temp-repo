@@ -18,3 +18,4 @@ AIFFEL에서 학습한 Exploration의 코드를 정리해놓은 repository입니
 |인공지능으로 새로운 패션 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_13/Exploration_13.ipynb)|
 |어제 오른 주식은.... 내꺼가 아니다...|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_14/Exploration_14.ipynb)|
 |트랜스포머는 아니지만 트랜스포머같은 챗봇 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_15/Exploration_15.ipynb)|
+|흐린 사진을 선명하게|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_16/Exploration_16.ipynb)|
