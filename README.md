@@ -19,3 +19,5 @@ AIFFEL에서 학습한 Exploration의 코드를 정리해놓은 repository입니
 |어제 오른 주식은.... 내꺼가 아니다...|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_14/Exploration_14.ipynb)|
 |트랜스포머는 아니지만 트랜스포머같은 챗봇 만들기|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_15/Exploration_15.ipynb)|
 |흐린 사진을 선명하게|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_16/Exploration_16.ipynb)|
+|인간보다 퀴즈를 잘푸는 인공지능|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_17/Exploration_17.ipynb)|
+|문자를 읽을 수 있는 딥러닝|[Link](https://github.com/kalina007/AIFFEL_EXPLORATION/blob/main/Exploration_18/Exploration_18.ipynb)|
