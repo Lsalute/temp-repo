@@ -21,3 +21,4 @@ AIFFEL에서 학습한 Exploration의 코드를 정리해놓은 repository입니
 |흐린 사진을 선명하게|[Link](https://github.com/looooopang/AIFFEL_EXPLORATION/blob/main/Exploration_16/Exploration_16.ipynb)|
 |인간보다 퀴즈를 잘푸는 인공지능|[Link](https://github.com/looooopang/AIFFEL_EXPLORATION/blob/main/Exploration_17/Exploration_17.ipynb)|
 |문자를 읽을 수 있는 딥러닝|[Link](https://github.com/looooopang/AIFFEL_EXPLORATION/blob/main/Exploration_18/Exploration_18.ipynb)|
+|채색 들어간다|[Link](https://github.com/looooopang/AIFFEL_EXPLORATION/tree/main/Exploration_19)|
